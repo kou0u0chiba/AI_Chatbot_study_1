@@ -7,7 +7,7 @@ AI_CHATBOT_STUDY_1/
 │   ├── __init__.py
 │   ├── asgi.py
 │   ├── settings.py
-│   ├── urls.py 
+│   ├── urls.py
 │   └── wsgi.py
 ├── chatbotapp/
 │   ├── __pycache__/
@@ -22,4 +22,4 @@ AI_CHATBOT_STUDY_1/
 │   └── views.py
 ├── db.sqlite3
 ├── manage.py
-└── env/   # 必要であれば仮想環境を設定
+└── env/ # 必要であれば仮想環境を設定
